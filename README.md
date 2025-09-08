@@ -26,8 +26,8 @@ This project uses **Cropper.js** to provide a smooth user interface for adjustin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/laravel-image-resizer.git
-   cd laravel-image-resizer
+   git clone https://github.com/phpwhizdeveloper002/Resize-image-project.git
+   cd Resize-image-project
 ````
 
 2. Configure environment:
@@ -37,13 +37,19 @@ This project uses **Cropper.js** to provide a smooth user interface for adjustin
    php artisan key:generate
    ```
 
-3. Serve the application:
+3. Install Composer:
+
+   ```bash
+   composer install
+   ```
+
+4. Serve the application:
 
    ```bash
    php artisan serve
    ```
 
-6. Visit the app in your browser:
+5. Visit the app in your browser:
 
    ```
    http://localhost:8000
