@@ -30,27 +30,20 @@ This project uses **Cropper.js** to provide a smooth user interface for adjustin
    cd laravel-image-resizer
 ````
 
-2. Install dependencies:
-
-   ```bash
-   composer install
-   npm install && npm run dev
-   ```
-
-3. Configure environment:
+2. Configure environment:
 
    ```bash
    cp .env.example .env
    php artisan key:generate
    ```
 
-4. Serve the application:
+3. Serve the application:
 
    ```bash
    php artisan serve
    ```
 
-5. Visit the app in your browser:
+6. Visit the app in your browser:
 
    ```
    http://localhost:8000
