@@ -85,3 +85,10 @@ This project uses **Cropper.js** to provide a smooth user interface for adjustin
 * [Laravel 11](https://laravel.com/)
 * [Cropper.js](https://github.com/fengyuanchen/cropperjs)
 * [Bootstrap 5](https://getbootstrap.com/) (for UI)
+
+````
+## 🖼️ Screenshot
+
+<img width="1496" height="801" alt="resize" src="https://github.com/user-attachments/assets/2ce8b0cf-8744-4781-bfd0-ca9401c156b6" />
+<img width="1598" height="947" alt="ressize" src="https://github.com/user-attachments/assets/4d38851d-17f0-4c94-93a8-0a715ff34cad" />
+
